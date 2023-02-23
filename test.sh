@@ -1,8 +1,8 @@
 echo "A executar os testes ..."
 echo
 
-saida=$(echo -e "5\n6\n7\n7\n8\n7\n" | ./a.out)
-esperado="Salário semanal: 445 Euros"
+saida=$(echo -e "90\n1.75\n" | ./a.out)
+esperado="O teu índice de massa corporal é 29,387."
 
 if [ "$saida" != "$esperado" ]; then
     echo "Teste falhou: a saída do programa é diferente do esperado"
