@@ -1,26 +1,23 @@
-# 03 - UFCD-0782 - F7 - Ex4
+# 03 - UFCD-0782 - F7 - Ex5
 Este exercício é escrito em C, será testado com o make e um script bash.
 
 ### O Exercício
-Escreva um programa peça o salário que um trabalhador ganha por hora, o número de horas
-que o trabalhador trabalhou ao longo da semana e que calcule o salário semanal.
+O índice de massa corporal pode ajudar a revenir a obesidade. O IMC é determinado pela
+divisão da massa do indivíduo pelo quadrado de sua altura, em que a massa está em
+quilogramas e a altura em metros.  
+
+IMC = massa / (altura * altura) 
+
+Faça um programa que calcule o IMC.  
+
 
 
 ### Saída Esperada:
-Qual é o valor ganho à hora?  
-5 ↵  
-Número de horas para segunda-feira:  
-6 ↵  
-Número de horas para terça-feira:  
-7 ↵  
-Número de horas para quarta-feira:  
-7 ↵  
-Número de horas para quinta-feira:  
-8 ↵  
-Número de horas para sexta-feira:  
-7 ↵  
-Salário semanal:  
-445 Euros  
+Qual é o teu peso?  
+90 ↵  
+Qual é a tua altura?  
+1,75 ↵  
+O teu índice de massa corporal é 29,387.  
  
 
 
